@@ -1,0 +1,6 @@
+framework module BatteryStationSDK {
+  umbrella header "BatteryStationSDK.h"
+
+  export *
+  module * { export * }
+}
